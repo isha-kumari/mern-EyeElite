@@ -1,0 +1,41 @@
+const data = {
+  products: [
+    {
+      name: 'Nike Slim Skirt',
+      slug: 'nike-slim-shirt',
+      category: 'Shirts',
+      image: '/images/a.jpg',
+      price: 200,
+      countInStock: 10,
+      brand: 'Nike',
+      rating: 4.5,
+      numReviews: 10,
+      description: 'high quality shirt',
+    },
+    {
+      name: 'Adidas Fit Pant',
+      slug: 'adidas-slim-shirt',
+      category: 'Shirts',
+      image: '/images/b.jpg',
+      price: 200,
+      countInStock: 10,
+      brand: 'Nike',
+      rating: 4.5,
+      numReviews: 10,
+      description: 'high quality shirt',
+    },
+    {
+      name: 'Adidas Fit Pant',
+      slug: 'adidas-slim-shirt',
+      category: 'Shirts',
+      image: '/images/c.jpg',
+      price: 200,
+      countInStock: 10,
+      brand: 'Nike',
+      rating: 4.5,
+      numReviews: 10,
+      description: 'high quality shirt',
+    },
+  ],
+};
+export default data;
